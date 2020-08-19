@@ -1,3 +1,4 @@
+
 #
 # Be aware that even a small syntax error here can lead to failures in output.
 #
@@ -7,13 +8,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Peihan (Paul) Liu
+    tagline: Student at University of Michigan
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: paulpeihanliu@gmail.com, paulliu@umich.edu
+    phone: 740-501-7352
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
@@ -26,23 +27,23 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Mandarin
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Chinese
+        level: Bilingual
 
-      - idiom: Spanish
+      - idiom: Cantonese
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Coding Theory
         link:
 
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: Basketball
         link:
 
 career-profile:
@@ -55,20 +56,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Mathematics and Data Science
+      university: University if Michigan
+      time: 2018 - current
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -149,41 +139,41 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Good Classical and Quantum Codes from Multi-Twisted Codes
+        link: "https://arxiv.org/abs/2008.07037"
+        authors: Nuh Aydin, Thomas Guidotti, Peihan Liu
+        conference: Finite Fields and Their Applications, 2020
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "New Linear Codes as Quasi-Twisted Codes from Long Constacyclic Codes"
+        link: "https://arxiv.org/abs/2007.00604"
+        authors: Nuh Aydin, Thomas Guidotti, Peihan Liu
+        conference: "IEEE Internation Workshop on Algebraic and Combinatorial Coding Theory, 2020"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Some generalizations of the ASR search algorithm for quasitwisted codes
+        link: "https://msp.org/involve/2020/13-1/p10.xhtml"
+        authors: Nuh Aydin, Thomas Guidotti, Peihan Liu, Armiya S. Shaikh, Robert O. VandenBerg
+        conference: "Involve, 2020"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Magma & Maple
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: HTML5 & CSS
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: Microsoft
+        level: 65%
+
+      - name: Photoshop
         level: 60%
 
 footer: >
