@@ -15,16 +15,16 @@ sidebar:
     # Sidebar links
     email: paulpeihanliu@gmail.com, paulliu@umich.edu
     phone: 740-501-7352
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    #website: blog.webjeda.com #do not add http://
+    linkedin: Peihan Liu
     github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: Mandarin
