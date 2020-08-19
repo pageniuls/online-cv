@@ -16,7 +16,7 @@ sidebar:
     email: paulpeihanliu@gmail.com, paulliu@umich.edu
     phone: 740-501-7352
     #website: blog.webjeda.com #do not add http://
-    linkedin: "www.linkedin.com/in/peihan-liu-b97834152/"
+    linkedin: "PeihanLiu"
     #github: sharu725
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -40,21 +40,16 @@ sidebar:
       - item: Coding Theory
         link:
 
-      - item: Snowboarding
+      - item: Basketball
         link:
 
-      - item: Basketball
+      - item: Snowboarding
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I did a lot of research about coding theory and some interdisciplicary projects about statistics, mathematics and computer science.
 education:
     - degree: BSc in Mathematics and Data Science
       university: University of Michigan
@@ -134,7 +129,7 @@ projects:
 
 publications:
     title: Publications
-    intro: |
+    intro: I mainly worked on coding theory and mathematical modeling. For coding theory, I worked with professor Nuh Aydin, mainly on quasi-cyclic, quasi-twsited, multi-twisted, polycyclic, and quantum codes. Also, I'm really interested in mathematical modeling in using statistic and differential equation.|
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
@@ -167,7 +162,7 @@ skills:
       - name: Magma & Maple
         level: 95%
 
-      - name: HTML5 & CSS
+      - name: HTML & CSS
         level: 70%
 
       - name: Microsoft
