@@ -79,10 +79,10 @@ experiences:
         -Built a MySQL database using Mybatis and JDBC; connected the database to websites using Springboot written in Java; made an API tester in Python to send Get and Post request
 
 projects:
-    title: Research Coding Theory
+    title: Research on Coding Theory
     intro: > 
+      - nothing to write here
     assignments:
-   
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
