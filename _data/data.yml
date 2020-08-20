@@ -82,7 +82,8 @@ projects:
     title: Research: Coding Theory
     intro: > 
     nothing
-        
+    assignments:
+    
     title: Research: Primality Test and Prime Numbers Generations
     intro: >
         -Studied and collected different methods of primality test and prime number generations, focusing on Euler test, Miller-Rabin test and AKS Algorithm; co-authored a 20-page paper with Prof. Aydin
