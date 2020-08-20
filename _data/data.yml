@@ -99,7 +99,7 @@ projects:
         link: "#"
         tagline: "Made a program to slice paintings into pixels, with focus on Fauvism; by probablistic analysis and statistical analysis on the color of pixels, we are going to analyze the preferences of colors of five main artists of Fauvism; We are going to use Freud analysis to discover the reasons why artists have such preferences and find out the connection between color preferences and historical background."
 
-      - title: "fARTbook", an an art social network
+      - title: fARTbook, an an art social network
         link: "https://cslab.kenyon.edu/class/softdev/harrington1/artmedia/home.html"
         tagline: "We designd and built an art social network that allows peple to create their profiles, browse the art works, give up or down votes, and leave their comments."
 
