@@ -55,58 +55,44 @@ education:
       university: University of Michigan
       time: 2018 - current
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I am currently a junior at University of Michigan, and my major is mathematics and data science. 
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Researcher Intern
+      time: 7.2017 - 8.2017
+      company: Kingdom Technology Co., Ltd, Shenzhen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Worked on quantitative models for daytrading using MACD, k-line, etc.
+        - Conducted research in determining time to buy a dip and sell out
+
+    - role: Researcher Intern
+      time: 7.2018 - 8.2018
+      company: Thinkive Software Company, Shenzhen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Learned about basic data processing methods and coded parts in Python; studied code of the winner of CCF and supervised a TFIWF algorithm based on Boolean Model on financial scenario
+
+    - role: Software Engineering Intern
+      time: 7.2018 - 9.2019
+      company: Kingsware, Shenzhen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        -Built a MySQL database using Mybatis and JDBC; connected the database to websites using Springboot written in Java; made an API tester in Python to send Get and Post request
+
 projects:
-    title: Projects
+    title: Research: Primality Test and Prime Numbers Generations
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+        -Studied and collected different methods of primality test and prime number generations, focusing on Euler test, Miller-Rabin test and AKS Algorithm; co-authored a 20-page paper with Prof. Aydin
+    
+    title: Research: Generalized Euler Function
+    intro: > Worked on the explicit formula of generalized Euler function for e=5,7
+    
+    title: Research: Ecological and Economic Effect of Global Warming 
+    intro: > Used time series and linear regression to predict North Atlantic Ocean temperature in the next 50 yrs; found out potential migration destination of fish Herring and Mackerel, by bio analysis and density mapping; built a logistic model to help the government issue policies to maintain fishery sustainability
+Submitted the paper to Applied Mathematical Modeling
+
+
     assignments:
+   
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
@@ -129,10 +115,9 @@ projects:
 
 publications:
     title: Publications
-    intro: I mainly worked on coding theory and mathematical modeling. For coding theory, I worked with professor Nuh Aydin, mainly on quasi-cyclic, quasi-twsited, multi-twisted, polycyclic, and quantum codes. Also, I'm really interested in mathematical modeling in using statistic and differential equation.|
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: I mainly worked on coding theory and mathematical modeling. For coding theory, I worked with professor Nuh Aydin, mainly on quasi-cyclic, quasi-twsited, multi-twisted, polycyclic, and quantum codes.
+    |
+       Also, I'm really interested in mathematical modeling in using statistic and differential equation.
     papers:
       - title: Good Classical and Quantum Codes from Multi-Twisted Codes
         link: "https://arxiv.org/abs/2008.07037"
@@ -155,6 +140,9 @@ skills:
     toolset:
       - name: Python
         level: 90%
+        
+      - name: Java & C++
+        level: 70%
 
       - name: Javascript & jQuery
         level: 70%
