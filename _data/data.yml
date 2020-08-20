@@ -81,7 +81,7 @@ experiences:
 projects:
     title: Research on Coding Theory
     intro: > 
-        - nothing to write here
+        nothing to write here
     assignments:
       - title: Velocity
         link: "#hook"
