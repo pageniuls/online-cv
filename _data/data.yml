@@ -102,10 +102,11 @@ projects:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+    
 publications:
     title: Publications
-    intro: I mainly worked on coding theory and mathematical modeling. For coding theory, I worked with professor Nuh Aydin, mainly on quasi-cyclic, quasi-twsited, multi-twisted, polycyclic, and quantum codes.
+    intro: >
+    I mainly worked on coding theory and mathematical modeling. For coding theory, I worked with professor Nuh Aydin, mainly on quasi-cyclic, quasi-twsited, multi-twisted, polycyclic, and quantum codes.
     |
        Also, I'm really interested in mathematical modeling in using statistic and differential equation.
     papers:
