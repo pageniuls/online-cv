@@ -80,7 +80,8 @@ experiences:
 
 projects:
     title: Research: Coding Theory
-    intro: > nothing
+    intro: > 
+    nothing
     assignments:
    
       - title: Velocity
