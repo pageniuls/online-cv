@@ -103,7 +103,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
     
-    title: Research: Primality Test and Prime Numbers Generations
+    title: Research \: Primality Test and Prime Numbers Generations
     intro: >
         -Studied and collected different methods of primality test and prime number generations, focusing on Euler test, Miller-Rabin test and AKS Algorithm; co-authored a 20-page paper with Prof. Aydin
     assignments:
