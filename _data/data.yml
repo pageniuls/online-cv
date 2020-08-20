@@ -79,6 +79,9 @@ experiences:
         -Built a MySQL database using Mybatis and JDBC; connected the database to websites using Springboot written in Java; made an API tester in Python to send Get and Post request
 
 projects:
+    title: Research: Coding Theory
+    intro: >
+    
     title: Research: Primality Test and Prime Numbers Generations
     intro: >
         -Studied and collected different methods of primality test and prime number generations, focusing on Euler test, Miller-Rabin test and AKS Algorithm; co-authored a 20-page paper with Prof. Aydin
@@ -89,6 +92,14 @@ projects:
     title: Research: Ecological and Economic Effect of Global Warming 
     intro: > Used time series and linear regression to predict North Atlantic Ocean temperature in the next 50 yrs; found out potential migration destination of fish Herring and Mackerel, by bio analysis and density mapping; built a logistic model to help the government issue policies to maintain fishery sustainability
 Submitted the paper to Applied Mathematical Modeling
+    
+    title: "fARTbook", an an art social network
+    intro: > We designd and built an art social network that allows peple to create their profiles, browse the art works, give up or down votes, and leave their comments.
+    https://cslab.kenyon.edu/class/softdev/harrington1/artmedia/home.html
+    
+    title: Research: Color Analysis on painting
+    intro: > Made a program to slice paintings into pixels, with focus on Fauvism; by probablistic analysis and statistical analysis on the color of pixels, we are going to analyze the preferences of colors of five main artists of Fauvism.
+We are going to use Freud analysis to discover the reasons why artists have such preferences and find out the connection between color preferences and historical background.
 
 
     assignments:
