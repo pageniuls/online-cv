@@ -76,7 +76,7 @@ experiences:
       time: 7.2018 - 9.2019
       company: Kingsware, Shenzhen
       details: |
-        -Built a MySQL database using Mybatis and JDBC; connected the database to websites using Springboot written in Java; made an API tester in Python to send Get and Post request
+           - Built a MySQL database using Mybatis and JDBC; connected the database to websites using Springboot written in Java; made an API tester in Python to send Get and Post request
 
 projects:
     title: project
