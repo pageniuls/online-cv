@@ -92,8 +92,7 @@ projects:
     assignments:
       - title: Research on Coding Theory
         link: "#hook"
-        tagline: "Studied and collected different methods of primality test and prime number generations, focusing on Euler test, Miller-Rabin test and AKS Algorithm; co-authored a 20-page paper with Prof. Aydin"
-
+        tagline: "Studied Polycyclic, Quasipolycyclic, Constacyclic, Quasi-cyclic, Quasi-twisted, Multi-twsited Codes"
       - title: Research on Primality Test and Prime Numbers Generations
         link: "#"
         tagline: "Studied and collected different methods of primality test and prime number generations, focusing on Euler test, Miller-Rabin test and AKS Algorithm; co-authored a 20-page paper with Prof. Aydin"
