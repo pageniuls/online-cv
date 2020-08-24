@@ -84,6 +84,13 @@ awards:
       company: The Society for Industrial and Applied Mathematics (SIAM), The Mathematical Association of America (MAA), The American Statistical Association (ASA), The American Mathematical Society (AMS)
       details: |
         - top 6 percent
+        
+honors:
+    - role: Meritorious Winner in 2019 Mathematical Contest of Modeling (MCM)
+      time: 2019
+      company: The Society for Industrial and Applied Mathematics (SIAM), The Mathematical Association of America (MAA), The American Statistical Association (ASA), The American Mathematical Society (AMS)
+      details: |
+        - top 6 percent
 
 projects:
     title: project
