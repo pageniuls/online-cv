@@ -27,23 +27,24 @@ sidebar:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+    
+      - idiom: English
+        level: Bilingual
+    
       - idiom: Mandarin
         level: Native
-
-      - idiom: Chinese
-        level: Bilingual
 
       - idiom: Cantonese
         level: Professional
 
     interests:
-      - item: Coding Theory
-        link:
-
       - item: Basketball
         link:
 
       - item: Snowboarding
+        link:
+
+      - item: Sneakers
         link:
 
 career-profile:
@@ -139,20 +140,25 @@ skills:
       - name: Java & C++
         level: 70%
 
-      - name: Javascript & jQuery
+      - name: Javascript &  HTML & CSS
         level: 70%
 
       - name: Magma & Maple
         level: 95%
 
-      - name: HTML & CSS
-        level: 70%
+      - name: R
+        level: 70%      
+      
+      - name: Matlab & Xpp
+        level: 60%
 
       - name: Microsoft
         level: 65%
 
       - name: Photoshop
         level: 60%
+      
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
