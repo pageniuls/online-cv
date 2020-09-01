@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I did a lot of research about coding theory and some interdisciplicary projects about statistics, mathematics and computer science.
+      I did some research about coding theory and some interdisciplicary projects about statistics, mathematics and computer science.
 education:
     - degree: BSc in Mathematics and Data Science
       university: University of Michigan
@@ -62,14 +62,14 @@ education:
 experiences:
     - role: Researcher Intern
       time: 7.2017 - 8.2017
-      company: Kingdom Technology Co., Ltd, Shenzhen
+      company: Kingdom Technology, Shenzhen
       details: |
         - Worked on quantitative models for daytrading using MACD, k-line, etc.
         - Conducted research in determining time to buy a dip and sell out
 
     - role: Researcher Intern
       time: 7.2018 - 8.2018
-      company: Thinkive Software Company, Shenzhen
+      company: Thinkive Software, Shenzhen
       details: |
           - Learned about basic data processing methods and coded parts in Python; studied code of the winner of CCF and supervised a TFIWF algorithm based on Boolean Model on financial scenario
 
@@ -95,7 +95,6 @@ honors:
 projects:
     title: project
     intro: > 
-        nothing to write here
     assignments:
       - title: Research on Coding Theory
         link: 
