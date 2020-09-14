@@ -139,6 +139,15 @@ publications:
         authors: Nuh Aydin, Thomas Guidotti, Peihan Liu, Armiya S. Shaikh, Robert O. VandenBerg
         conference: "Involve, 2020"
 
+Presentation:
+    title: Presentations
+    intro: |
+    papers:
+      - title: Searching for Record-breaking Codes with Top Down Method
+        #link: "https://arxiv.org/abs/2008.07037"
+        authors: Thomas Guidotti, Peihan Liu
+        conference: Kenyon Math Monday Talk, 2020
+
 skills:
     title: Skills &amp; Proficiency
 
