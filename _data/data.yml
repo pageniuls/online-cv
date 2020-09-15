@@ -139,6 +139,27 @@ publications:
         authors: Nuh Aydin, Thomas Guidotti, Peihan Liu, Armiya S. Shaikh, Robert O. VandenBerg
         conference: "Involve, 2020"
 
+
+pres:
+    title: Publications
+    intro: |
+        I mainly worked on coding theory and mathematical modeling. For coding theory, I worked with professor Nuh Aydin, mainly on quasi-cyclic, quasi-twsited, multi-twisted, polycyclic, and quantum codes. Also, I'm really interested in mathematical modeling in using statistic and differential equation.
+    papers:
+      - title: Good Classical and Quantum Codes from Multi-Twisted Codes
+        link: "https://arxiv.org/abs/2008.07037"
+        authors: Nuh Aydin, Thomas Guidotti, Peihan Liu
+        conference: Finite Fields and Their Applications, 2020
+
+      - title: "New Linear Codes as Quasi-Twisted Codes from Long Constacyclic Codes"
+        link: "https://arxiv.org/abs/2007.00604"
+        authors: Nuh Aydin, Thomas Guidotti, Peihan Liu
+        conference: "17th IEEE Internation Workshop on Algebraic and Combinatorial Coding Theory, 2020"
+
+      - title: Some generalizations of the ASR search algorithm for quasitwisted codes
+        link: "https://msp.org/involve/2020/13-1/p10.xhtml"
+        authors: Nuh Aydin, Thomas Guidotti, Peihan Liu, Armiya S. Shaikh, Robert O. VandenBerg
+        conference: "Involve, 2020"
+
 presentations:
     title: Presentations
     intro: |
