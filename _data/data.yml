@@ -142,20 +142,21 @@ publications:
 presentations:
     title: Presentations
     intro: |
+        jkjk
     papers:
-      - title: Searching for Record-breaking Codes with Top Down Method
+      - title: "Searching for Record-breaking Codes with Top Down Method"
         #link: "#"
-        authors: Peihan Liu, Thomas Guidotti
+        authors: "Peihan Liu, Thomas Guidotti"
         conference: "Kenyon Math Monday Talk, 2020"
         
-      - title: Polycyclic Code Associated with Trinomials
+      - title: "Polycyclic Code Associated with Trinomials"
         #link: "#"
-        authors:  "Peihan Liu, Bryan Yoshino
-        conference: Kenyon Math Monday Talk, 2020"
+        authors: "Peihan Liu, Bryan Yoshino"
+        conference: "Kenyon Math Monday Talk, 2020"
         
       - title: Generalizations of the ASR Algorithm
         #link: "#"
-        authors: Peihan Liu, Thomas Guidotti
+        authors: "Peihan Liu, Thomas Guidotti"
         conference: "Kenyon Math Monday Talk, 2019"
 
 skills:
