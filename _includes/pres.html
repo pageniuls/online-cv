@@ -1,0 +1,32 @@
+{% assign pres = site.data.data.pres %}
+{% if pres %}
+<section class="section pres-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ pres.title }}
+  </h2>
+
+  {% if pres.intro %}
+  <div class="intro">
+    {{ pres.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for pre in pres.papers %}
+  <div class="item">
+    {% if pre.link %}
+      <li><a href="{{ pre.link }}">{{ pre.title }}</a></li>
+    {% else %}
+      <li>{{ pre.title }}</li>
+    {% endif %}
+    <div class="pre-authors">{{ pre.authors }}</div>
+    <div class="pre-conference">{{ pre.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
