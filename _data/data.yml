@@ -96,6 +96,9 @@ projects:
     title: project
     intro: > 
     assignments:
+      - title: Research on Simplicial and Cosimplicial Algebra
+        link: 
+        tagline: "Currently studying the cohomology of symmetric k th power of a cochain complex using the Dold-Kan Correspondence."
       - title: Research on Coding Theory
         link: 
         tagline: "Studied Polycyclic, Quasipolycyclic, Constacyclic, Quasi-cyclic, Quasi-twisted, Multi-twsited Codes and Quantum codes; mainly focused on its agebraic properties, such as reversibility, self-orthogonality, self-duality, etc.; currently building an online database of quantum codes over non-binary fields."
